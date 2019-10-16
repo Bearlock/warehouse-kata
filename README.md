@@ -32,4 +32,4 @@ The test suite should have all the test cases (as well as the fixed test case) o
 
 # Project Structure
 
-The bulk of the logic is in `lib/warehouse.ex`. `warehouse.exs` is a handy dandy script that uses cade in the Warehouse module to do it's stuff, and all the tests are in `tests/warehouse_test.ex`
+The bulk of the logic is in `lib/warehouse.ex`. `warehouse.exs` is a handy dandy script that uses code in the Warehouse module to do it's stuff, and all the tests are in `tests/warehouse_test.ex`
